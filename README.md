@@ -1,1 +1,1 @@
-https://github.com/solsider/posmotri_v_okno/tree/main
+https://github.com/solsider/posmotri_v_okno
